@@ -1,0 +1,22 @@
+Holamundo.py
+# Entornos virtuales
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos pesados (NO subir datasets)
+*.csv
+*.csv.gz
+*.parquet
+
+# VS Code
+.vscode/
+
+# Sistema   
+.DS_Store
